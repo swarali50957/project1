@@ -1,0 +1,10 @@
+def BacteriaCoronaVirus():
+    time=0
+    pop=int(input("enter population of virus :")
+    rate float(input('Enter growth rate :")
+    while pop<=pop*2
+          pop=pop+(pop*rate)
+          print(round(pop))
+          time=time+1
+    print("Virus doubling time :",time)
+    
