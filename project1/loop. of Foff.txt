@@ -1,0 +1,4 @@
+def loopint():
+      for i in "Hello World"
+             print (i)
+loopint()
